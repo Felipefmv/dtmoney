@@ -8,7 +8,7 @@
 
 ## :dart: Objetivo
 
-Essa aplicação tem o objetivo de mostrar os repositórios da Rocketseat consumindo a API do Github, usando os hooks do React para isso.
+Essa aplicação tem o objetivo de exemplificar o uso dos React Hooks passando as informação para vários componentes da aplicação.
 
 ## :hammer_and_wrench: Ferramentas
 
